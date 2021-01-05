@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide"
 ---
-**Here I come to law and tech!**
+Replacing this with something new.
 Use the left arrow to go back!
